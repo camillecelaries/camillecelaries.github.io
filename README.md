@@ -6,7 +6,7 @@
 <head>
 
 <title> Profil de Camille Célariès </title>
-<h2> Camille Célariès </h2>
+<h2> Camille Célariè </h2>
 
 </head>
 

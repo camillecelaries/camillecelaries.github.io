@@ -25,6 +25,13 @@
 <br> <u> CV : </u> <a href="https://drive.google.com/file/d/1-DVFzLXka4WK9n6h9GMksYBpwE3bqlnx/view?usp=sharing"> CV_PDF </a>
 
 <hr>
+<br> <FONT size="3pt"> <B> TRAVAUX Estimations a posteriori </B> </FONT>
+
+<br> <font color="grey"> <B> Séance 1 </font> </B>
+<br> <u> Travail 1 : </u> 
+<br> <u> Travail 2 : </u> 
+
+<hr>
 <br> <FONT size="3pt"> <B> PARCOURS SCOLAIRE </B> </FONT>
 
 <br> <font color="grey"> <B> Master Modélisation et Analyse Numérique, </font> </B> depuis 2020

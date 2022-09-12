@@ -22,7 +22,7 @@
 <br> <FONT size="3pt"> <B> COORDONNEES ET PROFIL </B> </FONT>
 
 <br> <u> Mail universitaire : </u> camille.celaries(at)etu.umontpellier.fr
-<br> <u> CV : </u> <a href="https://drive.google.com/file/d/1-DVFzLXka4WK9n6h9GMksYBpwE3bqlnx/view?usp=sharing"> </u> </a>
+<br> <u> CV : </u> <a href="https://drive.google.com/file/d/1-DVFzLXka4WK9n6h9GMksYBpwE3bqlnx/view?usp=sharing"> CV_PDF </a>
 
 <hr>
 <br> <FONT size="3pt"> <B> PARCOURS SCOLAIRE </B> </FONT>

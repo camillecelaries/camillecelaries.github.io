@@ -6,7 +6,7 @@
 <head>
 
 <title> Profil de Camille Célariès </title>
-<h2> Camille Célariè </h2>
+<h2> Camille Célariès </h2>
 
 </head>
 
@@ -22,8 +22,7 @@
 <br> <FONT size="3pt"> <B> COORDONNEES ET PROFIL </B> </FONT>
 
 <br> <u> Mail universitaire : </u> camille.celaries(at)etu.umontpellier.fr
-<br> <u> Linkedin : </u> <a href="http://www.google.fr"> Profil CC </a>
-<br> <u> CV : <a href="https://drive.google.com/file/d/1-DVFzLXka4WK9n6h9GMksYBpwE3bqlnx/view?usp=sharing"> </u> </a>
+<br> <u> CV : </u> <a href="https://drive.google.com/file/d/1-DVFzLXka4WK9n6h9GMksYBpwE3bqlnx/view?usp=sharing"> </u> </a>
 
 <hr>
 <br> <FONT size="3pt"> <B> PARCOURS SCOLAIRE </B> </FONT>

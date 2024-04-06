@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+<b>Full resume</b>: [PDF]({{ site.url }}/files/CV Camille Celaries.pdf).
+
+***
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* <b>Faculty of Sciences</b>, Montpellier, FR
+  * M.Sc. in Theoretical and Numerical Analysis of PDEs (<i>2020 - 2023</i>) 
+  * B.Sc. in Pure & Applied Mathematics (<i>2016 - 2020</i>)
+  * 
+* <b>Lycée La Borde Basse</b>, Castres, FR
+  * High School Diploma with highest honors (2016)
+
+***
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D. candidate with teaching activities (<i>2024 - Present</i>)
+* Tutor in Sciences and Humanities (<i>2017 - 2023</i>)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+***
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Computer Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <b>Programming</b>. Python, C++, Python, Java, notions of R.  
+* <b>Mathematics softwares</b>. FreeFEM++, Matlab.
+* <b>Markup languages</b>. HTML, CSS, PHP.
+* <b>Typesetting systems</b>. LaTeX, Beamer, Microsoft Office (Word & PowerPoint). 
+* <b>Operating systems</b>. Linux, Windows, macOS.  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

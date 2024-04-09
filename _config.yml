@@ -21,7 +21,7 @@ repository               : "camillecelaries/camillecelaries.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IdCC.jpg"
   name             : "Camille Célariès"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Biophysics"

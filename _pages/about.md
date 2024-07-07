@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. student in Theoretical Biophysics, under the supervision of [Andrea Parmeggiani](https://www.linkedin.com/in/andrea-parmeggiani-9600616/?originalSubdomain=fr) & [Nils-Ole Walliser](https://sites.google.com/view/nils-ole-walliser) at [Laboratoire Charles Coulomb](https://coulomb.umontpellier.fr) (L2C - UMR 5221).
 
-I'm also a teaching assistant for the Department of Mathematics at [Montpellier Faculty of Sciences](https://sciences.edu.umontpellier.fr) & [Polytech Montpellier Engineering School](https://www.polytech.umontpellier.fr).
+I'm also a teaching assistant for the Department of Mathematics at [Montpellier Faculty of Sciences](https://sciences.edu.umontpellier.fr).
 
 
 Research interests

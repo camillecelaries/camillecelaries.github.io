@@ -18,7 +18,6 @@ Education
 * <b>Faculty of Sciences</b>, Montpellier, FR
   * M.Sc. in Theoretical and Numerical Analysis of PDEs (<i>2020 - 2023</i>) 
   * B.Sc. in Pure & Applied Mathematics (<i>2016 - 2020</i>)
-  * 
 * <b>Lycée La Borde Basse</b>, Castres, FR
   * High School Diploma with highest honors (2016)
 

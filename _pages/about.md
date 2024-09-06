@@ -27,3 +27,4 @@ Highlights
 ======
 - I supervised bachelor's degree students for their "introduction to research" internship.
 - I did simulation tutoring for physics students.
+- I participated to the organization of a the congress 'Maths en jean' for middle school students.

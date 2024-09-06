@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "IdCC.jpg"
   name             : "Camille Célariès"
-  pronouns         : s# example: "she/her"
+  pronouns         : test # example: "she/her"
   bio              : "PhD student in Biophysics"
   location         : "Montpellier, France"
   employer         : "Lab. Charles Coulomb"

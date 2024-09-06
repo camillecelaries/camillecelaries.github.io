@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "IdCC.jpg"
   name             : "Camille Célariès"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student in Biophysics"
+  pronouns         : # example: "she/her"
+  bio              : "PhD student in biophysics"
   location         : "Lab. Charles Coulomb, Montpellier"
-  employer         : "Montpellier"
+  employer         : # "Montpellier"
   uri              : # URL
-  email            : "celariesc@gmail.com" 
+  email            : "celariesc@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

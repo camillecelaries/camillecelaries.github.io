@@ -11,6 +11,6 @@ main:
   #- title: "Codes"
    # url: /codes/
   - title: "Resume"
-    url: /cv/
+    url: /resume/
   - title: "Contact"
     url: /contact/

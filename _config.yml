@@ -27,8 +27,9 @@ author:
   bio              : "PhD student in Biophysics"
   location         : "Montpellier, France"
   employer         : "Lab. Charles Coulomb"
-  uri              : "(camille.celaries@umontpellier.fr)" # URL
-  email            : "(camille.celaries @ umontpellier.fr)"
+  location         : "(camille.celaries @ umontpellier.fr)"
+  uri              : # URL
+  email            : #
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

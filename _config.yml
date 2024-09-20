@@ -25,11 +25,11 @@ author:
   name             : "Camille Célariès"
   pronouns         : # ""
   bio              : "PhD student in Biophysics"
-  bio2             : "test"
   location         : "Montpellier, France"
   employer         : "Lab. Charles Coulomb"
   uri              : # URL
-  email            : "camille.celaries@umontpellier.fr"
+  email            : # "camille.celaries@umontpellier.fr"
+  email2           : "camille.celaries@umontpellier.fr"
 
   # Academic websites
   arxiv            : "test" # URL - Update with the correct link to your profile

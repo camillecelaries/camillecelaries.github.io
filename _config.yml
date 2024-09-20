@@ -23,11 +23,10 @@ author:
   # Biographic information
   avatar           : "IdCC.jpg"
   name             : "Camille Célariès"
-  pronouns         : # example: "she/her"
   bio              : "PhD student in Biophysics"
   location         : "Montpellier, France"
   employer         : "Lab. Charles Coulomb"
-  location         : "(camille.celaries @ umontpellier.fr)"
+  pronouns         : "camille.celaries @ umontpellier.fr"
   uri              : # URL
   email            : #
 

@@ -28,9 +28,9 @@ author:
   location         : "Montpellier, France"
   employer         : "Lab. Charles Coulomb"
   uri              : # URL
-  email            : # "camille.celaries@umontpellier.fr"
-  email2           : "camille.celaries" # row email
-  email2bis        : "(a) umontpellier.fr" # to put the email on 2 lines
+  email            : "camille.celaries@umontpellier.fr"
+  email2           : # "camille.celaries" # row email
+  email2bis        : # "(a) umontpellier.fr" # to put the email on 2 lines
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

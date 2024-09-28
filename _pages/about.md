@@ -22,9 +22,3 @@ My Ph.D. work aims at:
 - <b>Influence of spatial organization on reactivity</b>: investigating how the spatiotemporal organization of OXPHOS complexes and quinone dynamics affect the reactivity of these complexes and contribute to the formation of transmembrane electrochemical gradients. This includes studying organized domain distributions versus dispersed networks of charge sources and sinks.
 
 - <b>Functional importance in charge transfer</b>: revealing the functional significance of spatiotemporal organization in transmembrane charge transfer biophysics at both the single bacterium and population levels. This research aims to understand OXPHOS function in nitrate respiration by integrating physicochemical modeling of electron transfer with high-resolution fluorescence microscopy data and bacterial metabolism insights.
-
-Highlights
-======
-- I supervised bachelor's degree students for their "introduction to research" internship.
-- I did simulation tutoring for physics students.
-- I participated to the organization of a the congress 'Maths en jean' for middle school students.

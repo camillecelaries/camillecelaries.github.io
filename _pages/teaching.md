@@ -9,7 +9,6 @@ author_profile: true
 University
 ======
 
-***
 <b>Calculus</b>, for 1st year B.Sc. students specialized in physics, chemistry, engineering sciences and health
 <br>(September 2024-to this day, Faculty of Sciences of Montpellier-France)
 
@@ -30,8 +29,6 @@ University
 Middle school
 ======
 
-***
-
 <b>Mathematics</b>, substitute teacher for 6th Grade students
 <br>(December 2021, Sète-France)
 
@@ -39,7 +36,5 @@ Middle school
 
 Private tutoring
 ======
-
-***
 
 During all my scolarity : private tutoring for children from 1st grade to 12th grade, helping them on a lot of school subjects and projects (mathematics, biology, chemistry, physics, literature, english, spanish, geography, history ...)

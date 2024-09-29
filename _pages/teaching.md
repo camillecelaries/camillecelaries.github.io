@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Teaching
+Faculty of Sciences (Montpellier)
 ======
 
 ***
@@ -25,7 +25,8 @@ Teaching
 <i>Subjects</i> : fractions, powers, functions, sums, trigonometry, complex numbers, vectors, polynomials, volumes
 ***
 
-
+Faculty of Sciences (Montpellier)
+======
 
 December 2021 : substitute teacher in Mathematics for middle school students
 

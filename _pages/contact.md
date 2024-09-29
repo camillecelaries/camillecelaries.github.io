@@ -9,4 +9,4 @@ redirect_from:
 
 Email : camille.celaries (a) umontpellier.fr
 
-Office : Faculté des Sciences de Montpellier, buildind 21, 3rd floor, left corridor, office n°27
+Office : Faculté des Sciences de Montpellier, buildind 21 (Laboratoire Charles Coulomb), 3rd floor, left corridor, office n°27

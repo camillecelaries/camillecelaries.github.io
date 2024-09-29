@@ -7,4 +7,9 @@ redirect_from:
   - /resume
 ---
 
-May 2024 : 'Maths en jean' congress for middle school students
+
+June 2024 : organize a one-day internship for L1 students in sciences : introduce them to my
+subject and prepare activities about it
+
+May 2024 : organization of the ’Maths en jean’ congress at the FDS, for middle school students
+

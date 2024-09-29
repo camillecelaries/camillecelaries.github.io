@@ -26,6 +26,7 @@ University
 <i>Subjects</i> : loops, arrays, algebra, linear systems, optimization, numerical analysis (EDOs)
 
 ***
+
 Middle school
 ======
 

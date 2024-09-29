@@ -6,15 +6,26 @@ author_profile: true
 ---
 
 
-September-December 2024 : lectures courses + working classes of ’Calculus’ for L1 students specialized in
-physics, chemistry, engineering sciences and health
+Teaching
+======
 
-June 2024 : organize a one-day internship for L1 students in sciences : introduce them to my
-subject and prepare activities about it
+***
+<b> Calculus </b>, for 1st year B.Sc. students specialized in physics, chemistry, engineering sciences and health
+(September 2024-to this day)
 
-May 2024 : organization of the ’Maths en jean’ congress at the FDS, for middle school students
+<i>Description</i>. This course aims to remind students of the essential calculation tools they have seen in previous years and introduce them to new ones for the future. It is intended for students who wants to pursue in physics and chemistry fieds and who need to know the basics of trigonometry and spatial geometry for these subjects.
 
-April-May 2024 : Tutoring ’Tools for simulation (Python)’ for fundamental physics L3 students
+<i>Subjects</i> : fractions, powers, functions, sums, trigonometry, complex numbers, vectors, polynomials, volumes
+***
+<b> Tools for simulation (Python) </b>, for 3rd year B.Sc. fundamental physics students
+(April-May 2024)
+
+<i>Description</i>. This course aims to remind students of the essential calculation tools they have seen in previous years and introduce them to new ones for the future. It is intended for students who wants to pursue in physics and chemistry fieds and who need to know the basics of trigonometry and spatial geometry for these subjects.
+
+<i>Subjects</i> : fractions, powers, functions, sums, trigonometry, complex numbers, vectors, polynomials, volumes
+***
+
+
 
 December 2021 : substitute teacher in Mathematics for middle school students
 

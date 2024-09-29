@@ -11,6 +11,7 @@ Faculty of Sciences (Montpellier, France)
 
 ***
 <b>Calculus</b>, for 1st year B.Sc. students specialized in physics, chemistry, engineering sciences and health
+
 (September 2024-to this day)
 
 <i>Description</i>. This course aims to remind students of the essential calculation tools they have seen in previous years and introduce them to new ones for the future. It is intended for students who wants to pursue in physics and chemistry fieds and who need to know the basics of trigonometry and spatial geometry for these subjects.

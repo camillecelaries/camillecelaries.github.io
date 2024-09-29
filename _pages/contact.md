@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
-Email : camille.celaries (a) umontpellier.fr
+***
+
+<i>Email:</i> camille.celaries (a) umontpellier.fr
 
 Office :
-<\br> Faculté des Sciences de Montpellier, France
-<\br> Laboratoire Charles Coulomb (building 21)
-<\br> 3rd floor, left corridor, office n°27
+<br> Faculté des Sciences de Montpellier, France
+<br> Laboratoire Charles Coulomb (building 21)
+<br> 3rd floor, left corridor, office n°27

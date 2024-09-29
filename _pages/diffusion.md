@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+I participated to events and projects made to introduce science and research to younger audiences
+
 ***
 
 Internship

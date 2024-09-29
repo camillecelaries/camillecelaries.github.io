@@ -16,4 +16,6 @@ May 2024 : organization of the ’Maths en jean’ congress at the FDS, for midd
 
 April-May 2024 : Tutoring ’Tools for simulation (Python)’ for fundamental physics L3 students
 
+December 2021 : substitute teacher in Mathematics for middle school students
+
 During all my scolarity : private tutoring for children from 1st grade to 12th grade, helping them on a lot of school subjects (mathematics, biology, chemistry, physics, literature, english, spanish, geography, history ...)

@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+***
 
 Internship
 ======
@@ -19,6 +20,7 @@ Internship
 <i>Subjects</i> : physics, biology, programming, analytical resolutions
 
 ***
+
 Congress
 ======
 

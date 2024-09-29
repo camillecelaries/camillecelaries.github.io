@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Faculty of Sciences (Montpellier)
+Faculty of Sciences (Montpellier, France)
 ======
 
 ***
@@ -25,9 +25,12 @@ Faculty of Sciences (Montpellier)
 <i>Subjects</i> : fractions, powers, functions, sums, trigonometry, complex numbers, vectors, polynomials, volumes
 ***
 
-Faculty of Sciences (Montpellier)
+Middle school (Sète, France)
 ======
 
 December 2021 : substitute teacher in Mathematics for middle school students
+
+Private tutoring (France)
+======
 
 During all my scolarity : private tutoring for children from 1st grade to 12th grade, helping them on a lot of school subjects (mathematics, biology, chemistry, physics, literature, english, spanish, geography, history ...)

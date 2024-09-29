@@ -24,7 +24,6 @@ University
 <i>Description</i>. This course aims to teach students how to use the Python programming language. It covers the basics and most useful functions.
 
 <i>Subjects</i> : loops, arrays, algebra, linear systems, optimization, numerical analysis (EDOs)
-***
 
 Middle school
 ======

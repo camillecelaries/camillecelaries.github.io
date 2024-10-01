@@ -15,6 +15,7 @@ I'm also a teaching assistant for the Physics Department at [Montpellier Faculty
 
 Research interests
 ======
+
 My Ph.D. work aims at:
 
 - <b>Modeling bacterial respiration</b>: developing a physical model of bacterial respiration using statistical physics and stochastic process theory to understand the spatial organization and dynamics of OXPHOS complexes on bacterial membranes, focusing on phase separation phenomena in nanodomains.

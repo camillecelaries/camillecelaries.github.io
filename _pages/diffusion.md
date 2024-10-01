@@ -18,16 +18,17 @@ Internship
 <br><i>For 1st year BS science students</i>
 <br>(June 2024 - Faculty of Sciences of Montpellier, France)
 
-<i>Description</i>. The goal is to show young students what research in sciences is through workshops. Research topics are presented to them, along with small application problems at their level. In groups, they have a few days to come up with ideas and prepare a short presentation of their results.
+The goal is to show young students what research in sciences is through workshops. Research topics are presented to them, along with small application problems at their level. In groups, they have a few days to come up with ideas and prepare a short presentation of their results.
 
-<i>Subjects</i> : physics, biology, programming, analytical resolutions
+<i>Subjects:</i> physics, biology, programming, analytical resolutions
 
 ***
 
 Congress
 ======
 
-<b>MATh.en.JEANS congress</b>, for middle school students
+<b>MATh.en.JEANS congress</b>
+<br><i>For middle school students</i>
 <br>(May 2024 - Faculty of Sciences of Montpellier, France)
 
 <i>Description</i>. It's a congress that takes place in a different cities in France every year and aims at make discover mathematics to children of different ages through games and treasure hunts.

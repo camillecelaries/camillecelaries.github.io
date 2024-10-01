@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Theoretical Biophysics, under the supervision of [Andrea Parmeggiani](https://www.linkedin.com/in/andrea-parmeggiani-9600616/?originalSubdomain=fr) & [Nils-Ole Walliser](https://sites.google.com/view/nils-ole-walliser) at [Laboratoire Charles Coulomb](https://coulomb.umontpellier.fr) (L2C - UMR 5221). I am a part of the Complex Systems and Non-linear Phenomena team of the Theoretical Physics axis.
+I'm a Ph.D. student in Theoretical Biophysics, under the supervision of [Andrea Parmeggiani](https://www.linkedin.com/in/andrea-parmeggiani-9600616/?originalSubdomain=fr) & [Nils-Ole Walliser](https://sites.google.com/view/nils-ole-walliser) at [Laboratoire Charles Coulomb](https://coulomb.umontpellier.fr) (Montpellier, France). I am a part of the Complex Systems and Non-linear Phenomena team of the Theoretical Physics axis.
 
 I'm also a teaching assistant for the Physics Department at [Montpellier Faculty of Sciences](https://sciences.edu.umontpellier.fr).
 

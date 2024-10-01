@@ -10,7 +10,7 @@ author_profile: true
 University
 ======
 
-<b>Calculus</b>, Lectures + tutorials
+<b>Calculus</b>, lectures + tutorials
 <br> For 1st year BS students specialized in physics, chemistry, engineering sciences and health
 <br>(September 2024-to this day - Montpellier Faculty of Sciences, France)
 
@@ -20,10 +20,11 @@ This course aims to remind students of the essential calculation tools they have
 
 ***
 
-<b>Tools for simulation (Python)</b>, for 3rd year BS fundamental physics students
+<b>Tools for simulation (Python)</b>, mentoring + practical work
+<br>For 3rd year BS fundamental physics students
 <br>(April-May 2024 - Montpellier Faculty of Sciences, France)
 
-This course aims to teach students how to use the Python programming language. It covers the basics and most useful functions.
+This course aims to teach students how to use the Python programming language. It covers the basics and most useful functions along with different methods to solve equations.
 
 <i>Subjects</i> : loops, arrays, algebra, linear systems, optimization, numerical analysis (EDOs)
 
@@ -32,7 +33,8 @@ This course aims to teach students how to use the Python programming language. I
 Middle school
 ======
 
-<b>Mathematics</b>, substitute teacher for 6th Grade students
+<b>Mathematics</b>, substitute teacher
+<br>For 6th Grade students
 <br>(December 2021 - Sète, France)
 
 ***

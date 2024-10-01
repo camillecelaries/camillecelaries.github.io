@@ -20,7 +20,7 @@ This course aims to remind students of the essential calculation tools they have
 
 ***
 
-<b>Tools for simulation (Python)</b>, mentoring + practical work
+<b>Simulation tools (Python)</b>, mentoring + practical work
 <br>For 3rd year BS fundamental physics students
 <br>(April-May 2024 - Montpellier Faculty of Sciences, France)
 

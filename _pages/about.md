@@ -23,4 +23,4 @@ My Ph.D. work aims at:
 
 - <b>Using experimental data:</b> collaborating with a team of biologists specialized in biochemistry, cellular biology and experimental biophysics to obtain data about bacterial metabolism and the movement of the respiration complexes using high resolution fluorescence microscopy.
 
-Keywords : biological physics, bacteria, non-linear physics, PDEs, stochastic processes, numerical simulation, physico-mathematical modelling, Monte-Carlo methods, transmembrane electrochemical gradient
+<i>Keywords :</i> biological physics, bacteria, non-linear physics, PDEs, stochastic processes, numerical simulation, physico-mathematical modelling, Monte-Carlo methods, transmembrane electrochemical gradient

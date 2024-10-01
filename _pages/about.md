@@ -18,7 +18,7 @@ Research interests
 
 My Ph.D. work aims at:
 
-- <b>Modeling bacterial respiration</b>: developing a physical model of bacterial respiration using statistical physics and stochastic process theory to understand the spatial organization and dynamics of OXPHOS complexes on bacterial membranes, focusing on phase separation phenomena in nanodomains.
+- <b>Modeling bacterial respiration:</b> developing a physical model of bacterial respiration using statistical physics and stochastic process theory to understand the spatial organization and dynamics of OXPHOS complexes on bacterial membranes
 
 - <b>Influence of spatial organization on reactivity</b>: investigating how the spatiotemporal organization of OXPHOS complexes and quinone dynamics affect the reactivity of these complexes and contribute to the formation of transmembrane electrochemical gradients. This includes studying organized domain distributions versus dispersed networks of charge sources and sinks.
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Diffusion"
-permalink: /scientific diffusion/
+title: "Scientific diffusion"
+permalink: /diffusion/
 author_profile: true
 redirect_from:
   - /resume

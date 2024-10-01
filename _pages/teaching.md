@@ -11,9 +11,9 @@ University
 ======
 
 <b>Calculus</b>, for 1st year BS students specialized in physics, chemistry, engineering sciences and health
+<br>Lectures + tutorials
 <br>(September 2024-to this day - Montpellier Faculty of Sciences, France)
 
-Lectures + tutorials
 This course aims to remind students of the essential calculation tools they have seen in previous years and introduce them to new ones for the future. It is intended for students who wants to pursue in physics and chemistry fieds and who need to know the basics of trigonometry and spatial geometry for these subjects.
 
 <i>Subjects</i> : fractions, powers, functions, sums, trigonometry, complex numbers, vectors, polynomials, volumes

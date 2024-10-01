@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Theoretical Biophysics, under the supervision of [Andrea Parmeggiani](https://www.linkedin.com/in/andrea-parmeggiani-9600616/?originalSubdomain=fr) & [Nils-Ole Walliser](https://sites.google.com/view/nils-ole-walliser) at [Laboratoire Charles Coulomb](https://coulomb.umontpellier.fr) (Montpellier, France). I am a part of the Complex Systems and Non-linear Phenomena team of the Theoretical Physics axis.
+I am a PhD student in Theoretical Biophysics with a strong background in Mathematics, especially in theoretical and numerical analysis of PDEs. I work under the supervision of [Andrea Parmeggiani](https://www.linkedin.com/in/andrea-parmeggiani-9600616/?originalSubdomain=fr) & [Nils-Ole Walliser](https://sites.google.com/view/nils-ole-walliser) at [Laboratoire Charles Coulomb](https://coulomb.umontpellier.fr) (Montpellier, France). I am a part of the Complex Systems and Non-linear Phenomena team of the Theoretical Physics axis.
 
 I'm also a teaching assistant for the Physics Department at [Montpellier Faculty of Sciences](https://sciences.edu.umontpellier.fr).
 
@@ -23,4 +23,4 @@ My PhD work aims at:
 
 - <b>Using experimental data:</b> collaborating with a team of biologists specialized in biochemistry, cellular biology and experimental biophysics to obtain data about bacterial metabolism and the movement of the respiration complexes using high resolution fluorescence microscopy.
 
-<i>Keywords :</i> biological physics, bacteria, non-linear physics, PDEs, stochastic processes, numerical simulation, physico-mathematical modelling, Monte-Carlo methods, transmembrane electrochemical gradient
+<i>Keywords:</i> biological physics, bacteria, non-linear physics, PDEs, stochastic processes, numerical simulation, physico-mathematical modelling, Monte-Carlo methods, transmembrane electrochemical gradient

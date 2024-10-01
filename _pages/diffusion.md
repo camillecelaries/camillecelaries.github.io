@@ -7,14 +7,15 @@ redirect_from:
   - /resume
 ---
 
-I participated to events and projects made to introduce science and research to younger audiences
+I participated to events and projects made to introduce science and research to younger audiences.
 
 ***
 
 Internship
 ======
 
-<b>Introduction to research</b>, for 1st year B.Sc. students in sciences
+<b>Introduction to research</b>
+<br><i>For 1st year B.Sc. students in sciences</i>
 <br>(June 2024 - Faculty of Sciences of Montpellier, France)
 
 <i>Description</i>. The goal is to show young students what research in sciences is through workshops. Research topics are presented to them, along with small application problems at their level. In groups, they have a few days to come up with ideas and prepare a short presentation of their results.

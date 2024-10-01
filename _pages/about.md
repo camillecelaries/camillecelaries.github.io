@@ -22,3 +22,5 @@ My Ph.D. work aims at:
 - <b>Understanding the influence of the spatial organization:</b> investigating how the spatiotemporal organization of OXPHOS complexes and quinones dynamics affect the reactivity of these complexes and contribute to the formation of transmembrane electrochemical gradients
 
 - <b>Using experimental data:</b> collaborating with a team of biologists specialized in biochemistry, cellular biology and experimental biophysics to obtain data about bacterial metabolism and the movement of the respiration complexes using high resolution fluorescence microscopy.
+
+Keywords : biological physics, bacteria, physico-mathematical modelling, transmembrane electrochemical gradient, stochastic processes, numerical simulation

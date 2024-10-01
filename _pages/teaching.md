@@ -18,6 +18,7 @@ University
 <i>Subjects</i> : fractions, powers, functions, sums, trigonometry, complex numbers, vectors, polynomials, volumes
 
 ***
+
 <b>Tools for simulation (Python)</b>, for 3rd year B.Sc. fundamental physics students
 <br>(April-May 2024 - Faculty of Sciences of Montpellier, France)
 

@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Theoretical Biophysics, under the supervision of [Andrea Parmeggiani](https://www.linkedin.com/in/andrea-parmeggiani-9600616/?originalSubdomain=fr) & [Nils-Ole Walliser](https://sites.google.com/view/nils-ole-walliser) at [Laboratoire Charles Coulomb](https://coulomb.umontpellier.fr) (Montpellier, France). I am a part of the Complex Systems and Non-linear Phenomena team of the Theoretical Physics axis.
+I'm a PhD student in Theoretical Biophysics, under the supervision of [Andrea Parmeggiani](https://www.linkedin.com/in/andrea-parmeggiani-9600616/?originalSubdomain=fr) & [Nils-Ole Walliser](https://sites.google.com/view/nils-ole-walliser) at [Laboratoire Charles Coulomb](https://coulomb.umontpellier.fr) (Montpellier, France). I am a part of the Complex Systems and Non-linear Phenomena team of the Theoretical Physics axis.
 
 I'm also a teaching assistant for the Physics Department at [Montpellier Faculty of Sciences](https://sciences.edu.umontpellier.fr).
 
 Research interests
 ======
 
-My Ph.D. work aims at:
+My PhD work aims at:
 
 - <b>Modeling bacterial respiration:</b> developing a physical model of bacterial respiration using statistical physics and stochastic process theory to understand the spatial organization and dynamics of OXPHOS complexes on bacterial membranes
 

@@ -13,7 +13,7 @@ Full resume: [PDF]({{ site.url }}/files/CV Camille Celaries.pdf)
 
 ***
 
-Work experiences
+Work experience
 ======
 
 * <b>PhD candidate</b> with teaching activities <i>(2024 - Present)</i>

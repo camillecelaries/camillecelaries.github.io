@@ -13,6 +13,14 @@ Full resume: [PDF]({{ site.url }}/files/CV Camille Celaries.pdf)
 
 ***
 
+Work experience
+======
+
+* Ph.D. candidate with teaching activities (<i>2024 - Present</i>)
+* Tutor in Sciences and Humanities (<i>2017 - 2023</i>)
+
+***
+
 Education
 ======
 
@@ -21,14 +29,6 @@ Education
   * B.Sc. in Pure & Applied Mathematics (<i>2016 - 2020</i>)
 * <b>Lycée La Borde Basse</b>, Castres, FR
   * High School Diploma with highest honors (2016)
-
-***
-
-Work experience
-======
-
-* Ph.D. candidate with teaching activities (<i>2024 - Present</i>)
-* Tutor in Sciences and Humanities (<i>2017 - 2023</i>)
 
 ***
 

@@ -33,7 +33,7 @@ This course aims to teach students how to use the Python programming language. I
 Middle school
 ======
 
-<b>Mathematics</b>, substitute teacher
+<b>Mathematics</b>, Substitute Teacher
 <br><i>For 6th Grade students</i>
 <br>(December 2021 - Sète, France)
 

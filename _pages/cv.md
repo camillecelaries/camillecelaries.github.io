@@ -16,7 +16,7 @@ Full resume: [PDF]({{ site.url }}/files/CV Camille Celaries.pdf)
 Work experience
 ======
 
-* PhD candidate with teaching activities (<i>2024 - Present</i>)
+* PhD candidate with teaching activities <i>(2024 - Present)</i>
 * Tutor in Sciences and Humanities (<i>2017 - 2023</i>)
 
 ***

@@ -15,6 +15,7 @@ redirect_from:
 
 Education
 ======
+
 * <b>Faculty of Sciences</b>, Montpellier, FR
   * M.Sc. in Theoretical and Numerical Analysis of PDEs (<i>2020 - 2023</i>) 
   * B.Sc. in Pure & Applied Mathematics (<i>2016 - 2020</i>)
@@ -25,6 +26,7 @@ Education
 
 Work experience
 ======
+
 * Ph.D. candidate with teaching activities (<i>2024 - Present</i>)
 * Tutor in Sciences and Humanities (<i>2017 - 2023</i>)
 
@@ -32,6 +34,7 @@ Work experience
 
 Computer Skills
 ======
+
 * <b>Programming</b>. Python, C++, Python, Java, notions of R.  
 * <b>Mathematics softwares</b>. FreeFEM++, Matlab.
 * <b>Markup languages</b>. HTML, CSS, PHP.

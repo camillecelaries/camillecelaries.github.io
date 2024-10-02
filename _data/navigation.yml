@@ -6,8 +6,6 @@ main:
     url: /diffusion/
   - title: "Events"
     url: /events/
-  - title: "Documents"
-    url: /documents/
   - title: "Resume"
     url: /cv/
   - title: "Contact"

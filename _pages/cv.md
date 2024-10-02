@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b>Full resume</b>: [PDF]({{ site.url }}/files/CV Camille Celaries.pdf).
+<b>Full resume:</b> [PDF]({{ site.url }}/files/CV Camille Celaries.pdf).
 
 ***
 
@@ -37,5 +37,4 @@ Computer Skills
 * <b>Markup languages</b>. HTML, CSS, PHP.
 * <b>Typesetting systems</b>. LaTeX, Beamer, Microsoft Office (Word & PowerPoint). 
 * <b>Operating systems</b>. Linux, Windows, macOS.  
-
 

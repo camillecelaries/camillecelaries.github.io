@@ -33,9 +33,8 @@ Education
 Computer Skills
 ======
 
-* <b>Programming:</b> Python, C++, Python, Java, R
+* <b>Programming languages:</b> Python, C++, Java, R
 * <b>Mathematics softwares:</b> FreeFEM++, Matlab, Mathematica
 * <b>Markup languages:</b> HTML, CSS, PHP
-* <b>Typesetting systems:</b> LaTeX, Beamer, Microsoft Office (Word & PowerPoint)
+* <b>Typesetting systems:</b> LaTeX, Beamer, Microsoft Office
 * <b>Operating systems:</b> Linux, Windows, macOS
-

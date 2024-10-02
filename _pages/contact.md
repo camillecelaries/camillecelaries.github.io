@@ -13,7 +13,7 @@ redirect_from:
 
 <b>Office:</b>
 <br>n°27, 3rd floor, left corridor
-<br>Laboratoroire Charles Coulomb (building 21)
-<br>Faculté des Sciences de Montpellier
+<br>Charles Coulomb Laboratory (building 21)
+<br>Faculty of Sciences
 <br>Place Eugène Bataillon
 <br>34095 Montpellier, France

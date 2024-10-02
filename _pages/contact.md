@@ -12,7 +12,7 @@ redirect_from:
 <b>Email:</b> camille.celaries (a) umontpellier.fr
 
 <b>Office:</b>
-<br>Office n°27, 3rd floor, left corridor
+<br>N°27, 3rd floor, left corridor
 <br>Laboratoroire Charles Coulomb (building 21)
 <br>Faculté des Sciences de Montpellier
 <br>Place Eugène Bataillon

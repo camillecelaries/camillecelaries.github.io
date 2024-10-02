@@ -16,17 +16,17 @@ Full resume: [PDF]({{ site.url }}/files/CV Camille Celaries.pdf)
 Work experience
 ======
 
-* PhD candidate with teaching activities <i>(2024 - Present)</i>
-* Tutor in Sciences and Humanities (<i>2017 - 2023</i>)
+* <b>PhD candidate</b> with teaching activities <i>(2024 - Present)</i>
+* <b>Tutor</b> in Sciences and Humanities <i>(2017 - 2023)</i>
 
 ***
 
 Education
 ======
 
-* Master of Science in Theoretical and Numerical Analysis of PDEs (<i>2020 - 2023</i>)
-* Bachelor of Science in Pure & Applied Mathematics (<i>2016 - 2020</i>)
-* High School Diploma in Science, specialized in Mathematics (2016)
+* <b>Master of Science</b> in Theoretical and Numerical Analysis of PDEs <i>(2020 - 2023)</i>
+* <b>Bachelor of Science</b> in Pure & Applied Mathematics <i>(2016 - 2020)</i>
+* <B>High School Diploma</B> in Science, specialized in Mathematics <i>(2016)</i>
 
 ***
 

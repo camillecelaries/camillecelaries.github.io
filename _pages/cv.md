@@ -19,6 +19,7 @@ Work experience
 * <b>PhD Student</b> in Biophysics, with teaching activities <i>(2024 - Present)</i>
 * <b>Research Intern</b> in Geosciences <i>(2023)</i>
 * <b>Research Intern</b> in Mathematics <i>(2022)</i>
+* <b>Research Intern</b> in Mathematics <i>(2021)</i>
 * <b>Private Tutor</b> in Sciences and Humanities <i>(2017 - 2023)</i>
 
 ***

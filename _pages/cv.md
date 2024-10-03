@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full resume: [PDF]({{ site.url }}/files/CV - Camille Celaries.pdf)
+Full resume: [PDF]({{ site.url }}/files/CV - Camille Célariès.pdf)
 
 ***
 

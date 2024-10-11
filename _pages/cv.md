@@ -27,8 +27,8 @@ Work experience
 Education
 ======
 
-* <b>Master of Science</b> in Theoretical and Numerical Analysis of PDEs <i>(2020 - 2023)</i>
-* <b>Bachelor of Science</b> in Pure and Applied Mathematics <i>(2016 - 2020)</i>
+* <b>Master's Degree</b> in Theoretical and Numerical Analysis of PDEs <i>(2020 - 2023)</i>
+* <b>Bachelor's Degree</b> in Pure and Applied Mathematics <i>(2016 - 2020)</i>
 * <B>High School Diploma</B> in Science, specialized in Mathematics <i>(2016)</i>
 
 ***

@@ -33,7 +33,7 @@ Education
 
 ***
 
-Computer Skills
+Computer skills
 ======
 
 * <b>Programming languages:</b> Python, C/C++, Java, R

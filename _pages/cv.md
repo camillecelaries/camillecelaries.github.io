@@ -37,7 +37,7 @@ Computer skills
 ======
 
 * <b>Programming languages:</b> Python, C/C++, Java, R
-* <b>Softwares:</b> FreeFEM++, Matlab, Mathematica
+* <b>Softwares:</b> Mathematica, Matlab, FreeFEM++
 * <b>Markup languages:</b> HTML, CSS, PHP
 * <b>Typesetting systems:</b> LaTeX, Beamer, Microsoft Office
 * <b>Operating systems:</b> Linux, Windows, macOS

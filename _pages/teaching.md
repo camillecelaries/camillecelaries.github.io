@@ -18,22 +18,22 @@ University
 
 ***
 
-<b>Simulation tools (Python)</b>, mentoring + practical work
-<br><i>For 3rd year BS fundamental physics students</i>
-<br>(April-May 2024 - Faculty of Sciences, Montpellier, France)
+<b>Simulation tools (Python)</b> (mentoring + practical work)
+<br>April-May 2024 - Faculty of Sciences, Montpellier, France
 
-This course aims to teach students how to use the Python programming language. It covers the basics and most useful functions along with different methods to solve equations.
-
-<i>Subjects:</i> loops, arrays, algebra, linear systems, optimization, numerical analysis (EDOs)
+<i>Level:</i> 3rd year BS fundamental physics students
+<br><i>Subjects:</i> loops, arrays, algebra, linear systems, optimization, numerical analysis (EDOs)
 
 ***
 
 Middle school
 ======
 
-<b>Mathematics</b>, Substitute Teacher
-<br><i>For 6th Grade students</i>
-<br>(December 2021 - Sète, France)
+<b>Mathematics</b> (Substitute Teacher)
+<br>December 2021 - Sète, France
+
+<i>Level:</i> 6th Grade students
+<br><i>Subjects:</i> addition, multiplication, problems
 
 ***
 

@@ -10,7 +10,7 @@ author_profile: true
 University
 ======
 
-<b>Calculus</b>: lectures + tutorials
+<b>Calculus</b> (lectures + tutorials)
 <br>September 2024-Present - Faculty of Sciences, Montpellier, France
 
 <i>Level:</i> 1st year BS students specialized in physics, chemistry, engineering sciences and health</i>

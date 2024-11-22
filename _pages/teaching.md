@@ -13,7 +13,7 @@ University
 <b>Calculus</b> (lectures + tutorials)
 <br>September 2024-Present - Faculty of Sciences, Montpellier, France
 
-<i>Level:</i> 1st year BS students specialized in physics, chemistry, engineering sciences and health</i>
+<i>Level:</i> 1st year BS students specialized in physics, chemistry, engineering sciences and health
 <br><i>Subjects:</i> fractions, powers, functions, sums, trigonometry, complex numbers, vectors, polynomials, volumes
 
 ***

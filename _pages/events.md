@@ -14,7 +14,7 @@ Events I attended.
 Workshop
 =====
 
-<b>Geosciences workshop</b>
+<b>Geosciences Workshop</b>
 <br>January 2023 - Vercors, France
 
 <i>Participants:</i> Interns, PhD students and researchers

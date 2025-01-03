@@ -32,7 +32,7 @@ Middle school
 <b>Substitute Teacher in Mathematics</b>
 <br>December 2021 - Sète, France
 
-<i>Level:</i> 6th Grade students
+<i>Level:</i> 6th Grade
 
 ***
 

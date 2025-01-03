@@ -29,11 +29,10 @@ University
 Middle school
 ======
 
-<b>Mathematics</b> (Substitute Teacher)
+<b>Substitute Teacher in Mathematics</b>
 <br>December 2021 - Sète, France
 
 <i>Level:</i> 6th Grade students
-<br><i>Subjects:</i> addition, multiplication, problems
 
 ***
 

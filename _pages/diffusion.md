@@ -27,7 +27,7 @@ The goal is to show young students what research in sciences is through workshop
 Congress
 ======
 
-<b>MATh.en.JEANS congress</b>
+<b>MATh.en.JEANS Congress</b>
 <br>May 2024 - Faculty of Sciences, Montpellier, France
 
 <i>Level:</i> Middle school students

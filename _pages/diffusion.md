@@ -32,5 +32,5 @@ Congress
 
 <i>Level:</i> Middle school students
 
-It's a congress that takes place in different cities of France every year and aims at make discover mathematics to children of different ages through games and treasure hunts.
+It's a two-day congress that takes place in different cities of France every year and aims at make discover mathematics to children of different ages through games and treasure hunts.
 <br><i>Keywords:</i> algebra, analysis, geometry, statistics, probability
